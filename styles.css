@@ -165,6 +165,11 @@ body {
     color: var(--secondary-text-color);
     text-align: justify;
 }
+.skills__list {
+    color: var(--secondary-text-color);
+    text-align: justify;
+    margin-left: 20px;
+}
 .experiences {
     flex: 1 1 60%;
     margin-right: 50px;
